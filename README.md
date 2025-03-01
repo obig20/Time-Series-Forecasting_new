@@ -14,3 +14,21 @@ This project focuses on **time series forecasting** for stock prices using histo
 1. Clone the repository:
    ```bash
    git clone https://github.com/your_username/Time-Series-Forecasting-for-Portfolio.git
+2. Install the required dependencies:
+   pip install -r requirements.txt
+3. Run the main script:
+   python time_series_forecasting.py
+Results
+Visualizations: Trends, volatility, and correlations are analyzed.
+
+Forecasts: Predictions for future stock prices with confidence intervals.
+
+Performance: Model accuracy is evaluated using MAE, RMSE, and MAPE.
+
+Dependencies
+Python 3.8+
+
+Libraries: yfinance, pandas, numpy, matplotlib, seaborn, statsmodels, pmdarima, tensorflow
+
+---
+
